@@ -1,4 +1,5 @@
-preAPCS-4th-1415
-================
+This is the starting git repository for students in D22 Pre-AP CS.
 
-This is the repository for 4th period
+Fork this and follow Mr. Davis 
+
+
